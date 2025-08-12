@@ -29,3 +29,11 @@ or without docker
 pip install --no-cache-dir -r requirements.txt
 py app.py
 ```
+
+## Usage
+
+To connect to a steam server simply open up the tool and append the address and the port with to slashes:
+
+```
+locahlost:8080/<address>/<port>
+```
