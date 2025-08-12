@@ -35,5 +35,5 @@ py app.py
 To connect to a steam server simply open up the tool and append the address and the port with to slashes:
 
 ```
-locahlost:8080/<address>/<port>
+http://localhost:8080/<address>/<port>
 ```
